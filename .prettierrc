@@ -1,0 +1,11 @@
+{
+    "trailingComma": "es5",      // Fügt Kommas in Arrays und Objekten hinzu (ES5-kompatibel)
+    "tabWidth": 2,               // Einrückung mit 2 Leerzeichen
+    "semi": true,                // Setzt Semikolons am Ende von Zeilen
+    "singleQuote": true,         // Verwendet einfache statt doppelte Anführungszeichen
+    "bracketSpacing": true,      // Leerzeichen um geschweifte Klammern `{ foo: bar }`
+    "jsxSingleQuote": false,     // Doppelte Anführungszeichen in JSX
+    "arrowParens": "always",     // Klammern um Funktionsparameter bei Arrow-Funktionen
+    "printWidth": 80,            // Maximale Breite einer Zeile (80 Zeichen)
+    "endOfLine": "lf"            // Zeilenumbruch auf Unix-Stil setzen (LF statt CRLF)
+}
